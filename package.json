@@ -19,7 +19,7 @@
     "rollup-plugin-auto-transform": "^1.0.2",
     "rollup-plugin-commonjs": "^4.1.0",
     "rollup-plugin-json": "^2.0.2",
-    "rollup-plugin-node-builtins": "^1.0.8",
+    "rollup-plugin-node-builtins": "^2.0.0",
     "rollup-plugin-node-globals": "^1.0.7",
     "rollup-plugin-node-resolve": "^2.0.0"
   }
